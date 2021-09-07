@@ -1,0 +1,7 @@
+name: "Biostats776 Introduction"
+navbar:
+  title: "Biostats776 Introduction"
+  left:
+    - text: "Home"
+      href: index.html
+output_dir: "docs"

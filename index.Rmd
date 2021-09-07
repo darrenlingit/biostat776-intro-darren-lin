@@ -1,0 +1,22 @@
+---
+title: "Introduction"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Background
+
+Hi everyone. My name is Darren Lin. I'm a current undergraduate at the Homewood campus majoring in Public Health Studies and Applied Mathematics and Statistics. I'm originally from California, so coming to the east coast was a pretty big adjustment initially.
+
+# Fun Facts
+
+1. I have never broken a bone (not yet at least...)
+2. I have never been to Mexico despite living an hour's drive away from the border.
+3. I got really into biking during the pandemic.
+4. I collect magnets from states that I have layovers in.
+5. I don't understand the appeal of boba.
+
+
