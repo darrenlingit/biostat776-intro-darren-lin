@@ -1,5 +1,4 @@
 ---
-title: "Introduction"
 output: html_document
 ---
 
@@ -11,6 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi everyone. My name is Darren Lin. I'm a current undergraduate at the Homewood campus majoring in Public Health Studies and Applied Mathematics and Statistics. I'm originally from California, so coming to the east coast was a pretty big adjustment initially.
 
+# Math Background/Training
+
+I don't have much math background outside of the core math classes I'm supposed to take (Calculus, Introduction to Probability, Introduction to Statitsics, etc.). I've done a few genomic data analysis projects as part of some summer programs. Currently at Bloomberg, I'm taking Methods in Biostatistics along with this course.
+
 # Fun Facts
 
 1. I have never broken a bone (not yet at least...)
@@ -19,4 +22,6 @@ Hi everyone. My name is Darren Lin. I'm a current undergraduate at the Homewood 
 4. I collect magnets from states that I have layovers in.
 5. I don't understand the appeal of boba.
 
+# Neat Webpage
 
+[This webpage] (http://sciencenetlinks.com/tools/scale-universe-2/) is a pretty cool website that shows you the scale of the universe. It gives you a good sense of just how big (and how small) the things in our universe are.
