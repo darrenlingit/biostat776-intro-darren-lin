@@ -24,4 +24,4 @@ I don't have much math background outside of the core math classes I'm supposed 
 
 # Neat Webpage
 
-[This webpage] (http://sciencenetlinks.com/tools/scale-universe-2/) is a pretty cool website that shows you the scale of the universe. It gives you a good sense of just how big (and how small) the things in our universe are.
+[This webpage](http://sciencenetlinks.com/tools/scale-universe-2/) is a pretty cool website that shows you the scale of the universe. It gives you a good sense of just how big (and how small) the things in our universe are.
